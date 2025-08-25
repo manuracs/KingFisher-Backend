@@ -1,0 +1,9 @@
+obj
+bin
+.vs
+.vscode
+.idea
+*.user
+**/wwwroot/lib
+packages
+.orig
