@@ -4,6 +4,8 @@ namespace KingFisher.Application.Handlers.Common.V1.Employees.Queries.List.Model
 
 public class EmployeeModel
 {
+	public Guid Id { get; set; }
+
 	public string? FirstName { get; set; }
 
 	public string? LastName { get; set; }
